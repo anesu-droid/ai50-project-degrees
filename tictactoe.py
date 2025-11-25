@@ -1,10 +1,11 @@
 import math
+
 import copy
 
 X = "X"
 O = "O"
 EMPTY = None
-
+#gittest
 def initial_state():
     return [[EMPTY, EMPTY, EMPTY],
             [EMPTY, EMPTY, EMPTY],
